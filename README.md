@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MadhavaKandala
+# Hello, I'm Madhava! 👋
 
 Welcome to my GitHub profile! 🎉 I am passionate about learning and exploring programming languages. 🚀
 ## About Me
