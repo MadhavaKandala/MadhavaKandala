@@ -10,7 +10,7 @@ Welcome to my GitHub profile! 🎉 I am passionate about learning and exploring 
 - Python Programming
 - Data Structures and Algorithms
 - Problem Solving
-Feel free to explore my repositories and projects! If you have any questions, ideas, or suggestions, don't hesitate to reach out. Let's learn and grow together! 🌟
+Feel free to explore my repositories and projects!
 ## Connect with Me 🌐
 
 - LinkedIn: [Madhava Kandala]https://www.linkedin.com/in/madhava-kandala-46b6182a4/
