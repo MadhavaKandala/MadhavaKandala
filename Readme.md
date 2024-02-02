@@ -1,4 +1,4 @@
-![220766](https://github.com/MadhavaKandala/MadhavaKandala/assets/149293303/0f6a1970-d2cf-459f-b4cf-cd272433274d)
+
   # Hello There!
 Throught the heaven and earth I alone am the honoured one
 
