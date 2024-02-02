@@ -1,6 +1,6 @@
 
   # Hello There!
-Throught the heaven and earth I alone am the honoured one
+Welcome to my Profile
 
 
 ## About Me
