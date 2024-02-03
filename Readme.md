@@ -1,6 +1,6 @@
 
   # Hello There!
-Welcome to my Profileee
+Welcome to my Profilee
 
 
 ## About Me
