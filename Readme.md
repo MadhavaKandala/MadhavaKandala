@@ -6,7 +6,6 @@ Welcome to my Profile
 
 
 
-
 ## About Me
 - 🌱 I’m currently learning C and Python programming languages.
 - 💡 I’m interested in algorithms, data structures, and software development.
