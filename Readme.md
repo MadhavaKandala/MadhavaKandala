@@ -8,6 +8,7 @@ Welcome to my Profile
 - 💡 I’m interested in algorithms, data structures, and software development.
 - 📚 I'm constantly exploring new resources to expand my knowledge and to level up my skills.
 ## My Skills 🛠️
+
 - C Programming
 - Python Programming
 - Data Structures and Algorithms
