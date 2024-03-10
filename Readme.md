@@ -29,31 +29,18 @@
 </div>
 
 ###
-
 <br clear="both">
-
 <h3 align="left">👩‍💻  About Me</h3>
-
 ###
-
 <p align="left">- C Programming<br>- Python Programming<br>- Data Structures and Algorithms<br>- Problem Solving<br>   Feel free to explore my repositories and projects!</p>
-
 ###
-
 <h3 align="left">My Skills 🛠️</h3>
-
 ###
-
 <p align="left">- 🌱 I’m currently learning C and Python programming languages.<br>- 💡 I’m interested in algorithms, data structures, and software development.<br>- 📚 I'm constantly exploring new resources to expand my knowledge and to level up my skills.</p>
-
 ###
-
 <h3 align="center">Languages and tools:</h3>
-
 ###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -61,13 +48,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-
 ###
-
 <h3 align="left">🔥   My Stats :</h3>
-
 ###
-
 <br clear="both">
 
 <div align="center">
