@@ -33,6 +33,7 @@
 <br clear="both">
 
 <h3 align="left">👩‍💻  About Me</h2>
+</div>
 
 ###
 
@@ -41,6 +42,7 @@
 ###
 
 <h3 align="left">My Skills 🛠️</h2>
+</div>
 
 ###
 
