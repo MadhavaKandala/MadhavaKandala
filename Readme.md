@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="" src="https://github.com/MadhavaKandala/MadhavaKandala/assets/149293303/f692bb5c-63c7-4b14-8a27-baa6071b780a"  />
+  <img height="" src="https://github.com/MadhavaKandala/MadhavaKandala/assets/149293303/f692bb5c-63c7-4b14-8a27-baa6071b780a"/>
 </div>
 
 ###
