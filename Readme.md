@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">- C Programming<br>- Python Programming<br>- Data Structures and Algorithms<br>- Problem Solving<br>   Feel free to expore my repositories and projects!</p>
+<p align="left">- C Programming<br>- Python Programming<br>- Data Structures and Algorithms<br>- Problem Solving<br>   Feel free to explore my repositories and projects!</p>
 
 ###
 
